@@ -1,0 +1,4 @@
+# Code owners are asked for review on every pull request. The "main: only
+# linax101 merges" ruleset requires a code owner's approval on pull requests
+# to the default branch; repo admins (@linax101) bypass it.
+* @linax101
